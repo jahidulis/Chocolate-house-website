@@ -19,7 +19,7 @@ const ProductDescription = () => {
       </div>
       <div>
         <img
-          src="https://shop.shajgoj.com/wp-content/uploads/2020/07/Johnsons-Baby-Oil-50-ml-570x570.jpg"
+          src="https://m.media-amazon.com/images/I/61pj9OP0IQL._SX522_.jpg"
           alt=""
         />
       </div>

@@ -5,13 +5,10 @@ const ProductDescription = () => {
     <div className="grid grid-cols-3 gap-3 items-center">
       <div className="col-span-2">
         <h1 className="text-xl md:text-4xl font-bold font-serif">
-          Your Baby is Precious to Us
+          For your every mood we have the solution
         </h1>
         <p className="mt-5 mb-5 font-medium">
-          Johnson's Baby Oil with Vitamin E is specially formulated for new born
-          babies. Its gentle formula nourishes the skin, making it smooth and
-          soft. Johnson's Baby Oil with delicate floral fragrance is clinically
-          proven mild and keeps babies smelling fresh and fragrant longer.
+        We provide every kind of chocolate from different taste which will light up your mood no matter how hectic was your day.you can also sends gifts to your loving one with our chocolate varieties and with lots of love to strengthen your bonding. So eat,sleep and shine  with the taste and love of our chocolates.
         </p>
         <button className="p-4 bg-blue-200 border rounded font-bold font-serif">
           Live Demo
